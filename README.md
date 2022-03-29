@@ -1,16 +1,11 @@
-# rpsgame
+![image](https://user-images.githubusercontent.com/57714331/160575601-ece3d999-41f9-448c-9c01-2c264f6e389e.png)
+ROCK PAPER SCISSOR GAME
 
-A new Flutter project.
+The classic childhood game of Rock, Paper and Scissors is generally played between two people thru hand gestures at the same time. So, now can you beat the AI this time? Try scoring higher by choosing between the Rock, Paper or Scissors gestures.
 
-## Getting Started
+Rules are simple:- Rock beats Paper, Paper beats Rock and Scissor beats Paper.
 
-This project is a starting point for a Flutter application.
+Google Play Store link:- https://play.google.com/store/apps/details?id=com.harshchhikara.rpsgame
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Images:-
+![image](https://user-images.githubusercontent.com/57714331/160575455-d2d10cfa-4e98-4ac9-8fa5-0aa9dde67686.png)
